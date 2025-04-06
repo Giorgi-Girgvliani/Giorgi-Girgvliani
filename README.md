@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giorgi-Girgvliani
 - 👀 I’m interested in Prgoramming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Java, HTML, PHP, Javascript, CSS
 - 💞️ I’m looking to collaborate on Nothing YET!
 - 📫 How to reach me --> Email - gigrvliani1308@gmail.com
 

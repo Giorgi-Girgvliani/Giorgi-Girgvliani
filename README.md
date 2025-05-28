@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Giorgi-Girgvliani
-- 👀 I’m interested in Prgoramming
-- 🌱 I’m currently learning C++, Java, HTML, PHP, Javascript, CSS
-- 💞️ I’m looking to collaborate on Book-seller site creation!
-- 📫 How to reach me --> Email - girgvliani1308@gmail.com
+### 👋 Hi, I'm Giorgi Girgvliani  
+🚀 Full Stack Developer | PHP, JavaScript, SQL, React, CSS  
+📍 Based in Tbilisi, Georgia  
 
-<!---
-Giorgi-Girgvliani/Giorgi-Girgvliani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a self-taught and university-trained developer building real-world projects in both frontend and backend. My recent work includes a bookstore e-commerce site with full stack features (cart, payments, reviews, and admin panel), and a React-based site for local businesses.
+
+📫 Contact: girgvliani1308@gmail.com  
+🌐 Portfolio: [wignissaxli.com](https://wignissaxli.com)
